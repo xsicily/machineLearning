@@ -1,8 +1,8 @@
-# Multimodal Fusion Project---Score level fusing of face and voice for identity verification
+# Score level fusing of face and voice for identity verification
 
 # Descriptions
 
-  Multi-biometric systems fusion information from multiple biometric sources in order to achieve better recognition performance and to overcome some limitations of uni-biometric systems. Fusion can be performed at four different levels of information, namely, sensor, feature, match score and decision levels. Score level fusion is popular used. The project is aim to do score level fusing of face and voice by different fusion methods for identity verification.This project origins from Multi-model fusion course from Oulu University.
+  Multi-biometric systems fusion information from multiple biometric sources in order to achieve better recognition performance and to overcome some limitations of uni-biometric systems. Fusion can be performed at four different levels of information, namely, sensor, feature, match score and decision levels. Score level fusion is popular used. The project is aim to do score level fusing of face and voice by different fusion methods for identity verification.This project origins from Multi-modal fusion course from Oulu University.
 
 # Data
   4 csv files: each files include 3 columns marked as face, voice and label
