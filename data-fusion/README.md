@@ -1,5 +1,4 @@
-# Multimodal Fusion Project
-##                  ---Score level fusing of face and voice for identity verification
+# Multimodal Fusion Project---Score level fusing of face and voice for identity verification
 
 # Descriptions
 
@@ -9,8 +8,11 @@
   4 csv files: each files include 3 columns marked as face, voice and label
 
 -Train_negative (wolf training data): 40000 * 3
+
 -Train_positive (sheep training data): 600 * 3
+
 -Test_negative (wolf testing data): 111800 * 3
+
 -Test_positive (sheep training data): 400 * 3
 
 # Jupyter Notebook
@@ -18,15 +20,19 @@
   This notebook shows the framework of this project including requirements, the pre-prepared error calculations and some hints for each task. 
 
   Task 1: Verification Error from Voice
+  
   Task 2: Verification Error from Face and Voice using a Simple Sum
+  
   Task 3: Weighted Sum Fusion
+  
   Task 4: Implement One Classifier-based Fusion (SVM or Logistic Regression)
+  
   Task 5: One Density-based Score Fusion
 
 # Analysis tools
 
-	Language: Python 3
-	Libraries: Numpy, Pandas, sklearn
+-Language: Python 3
+-Libraries: Numpy, Pandas, sklearn
 
 # Summary
 
